@@ -4,8 +4,6 @@
 
 # ⚡ Java Backend Developer • Problem Solver • AI
 
-### Building backend applications, exploring artificial intelligence.
-
 <!-- <p>
 <a href="#"><img src="https://img.shields.io/badge/LeetCode-1700+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/DSA-500%2B_Problems-0A66C2?style=for-the-badge"/></a>
@@ -13,8 +11,6 @@
 </p> -->
 
 </div>
-
----
 
 # 👨‍💻 About me
 
@@ -33,33 +29,26 @@ I enjoy building web applications using Java and Spring Boot, and I am intereste
 
 # ⚙️ Technology Arsenal
 
-<div align="center">
-
 ### Languages
-
-<img src="https://skillicons.dev/icons?i=java,cpp,c,js,sql" />
+<img src="https://skillicons.dev/icons?i=java,cpp,c,js" />
 
 ### Backend
+<img src="https://skillicons.dev/icons?i=spring,maven,kafka,redis" />
 
-<img src="https://skillicons.dev/icons?i=spring,maven,kafka,docker" />
 
 ### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 
-<img src="https://skillicons.dev/icons?i=react,html,css" />
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-### Database & Tools
+### Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,maven,postman,idea,vscode" />
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea" />
-
-### Exploring
-
-<img src="https://skillicons.dev/icons?i=aws,kubernetes" />
-
-</div>
-
+### Core Computer Science
+DSA • OOP • Operating Systems • DBMS • Computer Networks
 
 ---
-
 # 🧠 Current Focus
 
 ```text
