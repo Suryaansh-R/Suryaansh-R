@@ -14,7 +14,7 @@
 
 # 👨‍💻 About me
 
-I am a backend developer passionate about building applications using modern practices.
+I am a Java developer passionate about building applications using modern practices.
 
 I enjoy building web applications using Java and Spring Boot, and I am interested in integrating Artificial Intelligence with modern software solutions. Through academic projects, internships, and continuous learning, I strive to write clean, maintainable code and grow as a software engineer.
 
