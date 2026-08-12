@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,30:1E293B,70:F59E0B,100:FBBF24&text=👋%20Hi%20I'm%20Suryaansh&fontSize=55&fontColor=ffffff&fontAlignY=40"/>
 
-# ⚡ Java Backend Developer • Problem Solver • AI
+# ⚡ Java Developer • Problem Solver • AI
 
 <!-- <p>
 <a href="#"><img src="https://img.shields.io/badge/LeetCode-1700+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
