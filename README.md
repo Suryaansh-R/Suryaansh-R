@@ -30,7 +30,7 @@ I enjoy building web applications using Java and Spring Boot, and I am intereste
 # ⚙️ Technology Arsenal
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,cpp,c,js,sql" />
+<img src="https://skillicons.dev/icons?i=java,cpp,c,js,sql,pyhton" />
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=spring,maven,kafka,redis" />
