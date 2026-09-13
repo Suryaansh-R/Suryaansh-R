@@ -66,7 +66,7 @@ Backend Architecture
 - 🥇 Secured **Rank 1 in Academics** during first year based on overall branch performance.  
 - 💻 Solved **500+ Data Structures and Algorithms problems** across LeetCode, GeeksforGeeks, and CodeChef.  
 - 📈 Achieved **1700+ LeetCode Contest Rating**, placing among the **Top 15% globally**.  
-- 🌍 Secured **Global Rank 2970** in **LeetCode Biweekly Contest 169** among 27,000+ participants.
+- 🌍 Secured **Global Rank 2646** in **LeetCode Weekly Contest 515** among 45,000+ participants.
 ---
 
 <div align="center">
